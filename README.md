@@ -198,7 +198,7 @@ AI Agents with LiteLLM | Scalable AI Pipelines on GCP | Production AI Systems
 **Open to AI Engineering roles & exciting collaborations**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-agarwal-7969b328a/)
-[![Email](https://img.shields.io/badge/Email-shivamagarwal22114%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamagarwal22114@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shivamagarwal22114%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamagarwal2211@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
