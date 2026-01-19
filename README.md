@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shivam%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
@@ -13,18 +13,18 @@
   <img src="https://komarev.com/ghpvc/?username=shivam0897-i&style=for-the-badge&color=667eea" alt="Profile Views"/>
 </p>
 
-<br/>
+---
 
 ## 🎯 About Me
 
-> **AI/ML Engineer @ Point9** | BTech CSE - AI & ML | MIET Meerut (2023-2027)
-> 
-> 🚀 Building intelligent systems that solve real problems  
-> 🏢 Currently automating enterprise workflows with LangGraph & LiteLLM  
-> 🎯 Domains: FinTech, Healthcare, Legal Tech  
-> 📊 Impact: 70% reduction in manual processing time
+**AI/ML Engineer @ Point9** | BTech CSE - AI & ML | MIET Meerut (2023-2027)
 
-<br/>
+🚀 Building intelligent systems that solve real problems  
+🏢 Currently automating enterprise workflows with LangGraph & LiteLLM  
+🎯 Domains: FinTech, Healthcare, Legal Tech  
+📊 Impact: 70% reduction in manual processing time
+
+---
 
 ## 🏢 Enterprise AI @ Point9
 
@@ -68,7 +68,7 @@ Production-ready AI agent framework
 - 📦 Tool auto-discovery
 - 📡 SSE progress streaming
 
-<br/>
+---
 
 ## 🚀 Featured Personal Projects
 
@@ -97,7 +97,7 @@ Production-ready AI agent framework
 | ♻️ **Waste Classifier** | Computer Vision | ResNet50, TensorFlow | 94% accuracy |
 | 🎓 **AscendPath** | AI Career Platform | Next.js, AI | Personalized paths |
 
-<br/>
+---
 
 ## 💻 Tech Stack
 
@@ -111,7 +111,7 @@ Production-ready AI agent framework
 **Backend:** FastAPI, REST APIs, SSE Streaming  
 **Cloud:** GCP, AWS, Firebase, Vercel, Docker  
 
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
@@ -128,7 +128,7 @@ Production-ready AI agent framework
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam0897-i&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </p>
 
-<br/>
+---
 
 ## 🏆 Certifications
 
@@ -139,7 +139,7 @@ Production-ready AI agent framework
   <img src="https://img.shields.io/badge/Google-Gemini_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
 </p>
 
-<br/>
+---
 
 ## 🤝 Let's Connect!
 
@@ -156,7 +156,7 @@ Production-ready AI agent framework
   </a>
 </p>
 
-<br/>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
@@ -165,4 +165,3 @@ Production-ready AI agent framework
 <p align="center">
   <b>⭐ From <a href="https://github.com/shivam0897-i">shivam0897-i</a> with 💜</b>
 </p>
-]]>
