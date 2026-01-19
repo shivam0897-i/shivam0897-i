@@ -7,161 +7,121 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivam-agarwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shivamagarwal2211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/shivam0897-i"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shivam0897-i&style=for-the-badge&color=667eea" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/shivam-agarwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shivamagarwal2211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shivam0897-i"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shivam0897-i&style=for-the-badge&color=667eea"/>
 </p>
 
----
+<br/>
 
-## 🎯 About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_BTech_CSE_AI/ML-MIET_Meerut-667eea?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📍_Remote-India-764ba2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💼_AI_Engineer-Point9-success?style=flat-square"/>
+</div>
 
-**AI/ML Engineer @ Point9** | BTech CSE - AI & ML | MIET Meerut (2023-2027)
-
-🚀 Building intelligent systems that solve real problems  
-🏢 Currently automating enterprise workflows with LangGraph & LiteLLM  
-🎯 Domains: FinTech, Healthcare, Legal Tech  
-📊 Impact: 70% reduction in manual processing time
-
----
+<br/>
 
 ## 🏢 Enterprise AI @ Point9
 
-### 🏦 Cheque Processing Agent
-AI-powered cheque data extraction with Vision AI
-- ✨ Multi-provider (Gemini/GPT-4o/Claude)
-- 📡 Real-time SSE streaming
-- 🔍 MICR parsing & fraud detection
-- 🎯 95%+ extraction accuracy
-
-### 📋 LC Validation Agent
-Letter of Credit compliance verification
-- ✅ 110 validation rules
-- 📜 UCP 600 & ISBP 745 compliant
-- 🛡️ OFAC + UN sanctions screening
-- ⚡ 98% confidence validation
-
-### 🆔 KYC Verification
-Identity document verification system
-- 📄 Aadhaar, PAN, Passport, DL support
-- ✍️ AI signature verification
-- 🔏 Stamp detection & validation
-- 🤖 Multi-OCR with fallback
-
-### 🏥 Medical Records Digitization
-Patient record processing & consolidation
-- 🔬 Lab results analysis
-- 🌐 Gemini + Mistral AI support
-- 📊 Reference range checking
-- 🔒 HIPAA-compliant processing
-
-### 🌍 Legal Document Translator
-Multilingual legal document processing
-- 🗣️ 100+ languages supported
-- 📝 Entity extraction
-- ⚖️ Contract/NDA/Agreement support
-
-### 🧰 Point9 Agent Platform
-Production-ready AI agent framework
-- 🔧 LiteLLM multi-provider support
-- 📦 Tool auto-discovery
-- 📡 SSE progress streaming
-
----
-
-## 🚀 Featured Personal Projects
-
 <div align="center">
-  <a href="https://github.com/shivam0897-i/ThinkPdf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam0897-i&repo=ThinkPdf&theme=tokyonight&hide_border=true" alt="ThinkPDF"/>
-  </a>
-  <a href="https://github.com/shivam0897-i/MultiGenAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam0897-i&repo=MultiGenAI&theme=tokyonight&hide_border=true" alt="MultiGenAI"/>
-  </a>
+
+| 🏦 Cheque Processing | 📋 LC Validation | 🆔 KYC Verification |
+|:---:|:---:|:---:|
+| Vision AI + MICR | 110 Compliance Rules | Multi-Document OCR |
+| `Gemini` `GPT-4o` `Claude` | `UCP 600` `ISBP 745` | `Aadhaar` `PAN` `Passport` |
+| **95%+ Accuracy** | **98% Confidence** | **Real-time Verification** |
+
+| 🏥 Medical Records | 🌍 Legal Translator | 🧰 Agent Platform |
+|:---:|:---:|:---:|
+| Patient Consolidation | 100+ Languages | Production Framework |
+| `Gemini` `Mistral` | `Entity Extraction` | `LiteLLM` `LangGraph` |
+| **HIPAA Compliant** | **Contract/NDA/Legal** | **SSE Streaming** |
+
 </div>
 
+<br/>
+
+## 🚀 Featured Projects
+
 <div align="center">
-  <a href="https://github.com/shivam0897-i/Smart_waste_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam0897-i&repo=Smart_waste_app&theme=tokyonight&hide_border=true" alt="Waste Classifier"/>
-  </a>
-  <a href="https://github.com/shivam0897-i/AscendPath">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam0897-i&repo=AscendPath&theme=tokyonight&hide_border=true" alt="AscendPath"/>
-  </a>
+
+| <a href="https://github.com/shivam0897-i/ThinkPdf">📚 **ThinkPDF**</a> | <a href="https://github.com/shivam0897-i/MultiGenAI">🎨 **MultiGenAI**</a> |
+|:---:|:---:|
+| AI-powered semantic search across documents | Multimodal content generation platform |
+| ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square) ![SDXL](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=flat-square) |
+| 🔍 **1,000+ queries/day** • ⚡ Sub-500ms | 🚀 **500+ requests/day** • 99.8% uptime |
+
+| <a href="https://github.com/shivam0897-i/Smart_waste_app">♻️ **Waste Classifier**</a> | <a href="https://github.com/shivam0897-i/AscendPath">🎓 **AscendPath**</a> |
+|:---:|:---:|
+| Computer vision for sustainability | AI-powered career guidance platform |
+| ![ResNet](https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![AI](https://img.shields.io/badge/AI_Agents-667eea?style=flat-square) |
+| 🎯 **94% accuracy** • 📱 Edge deployment | 🤖 **Personalized paths** • Modern UX |
+
 </div>
 
-| Project | Description | Tech | Highlights |
-|:--------|:------------|:-----|:-----------|
-| 📚 **ThinkPDF** | AI Document Intelligence | Gemini, FAISS | 1,000+ queries/day |
-| 🎨 **MultiGenAI** | Multimodal AI Suite | Gemini 2.5, SDXL | 500+ requests/day |
-| ♻️ **Waste Classifier** | Computer Vision | ResNet50, TensorFlow | 94% accuracy |
-| 🎓 **AscendPath** | AI Career Platform | Next.js, AI | Personalized paths |
+<br/>
 
----
+## 💻 Tech Arsenal
 
-## 💻 Tech Stack
+<div align="center">
+
+**🤖 AI/ML**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-4ECDC4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-667eea?style=for-the-badge)
+
+**🧠 LLMs**
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+
+**⚡ Stack**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,tensorflow,pytorch,fastapi,react,nextjs,gcp,aws,docker&perline=10&theme=dark"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivam0897-i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam0897-i&theme=tokyonight&hide_border=true"/>
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,tensorflow,pytorch,fastapi,react,nextjs,nodejs,gcp,aws,docker,vercel,git,github,vscode&perline=8&theme=dark" alt="Tech Stack"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam0897-i&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </p>
 
-**AI/ML:** LangGraph, LangChain, LiteLLM, RAG, Prompt Engineering  
-**LLMs:** Gemini, GPT-4, Claude, Mistral, HuggingFace Transformers  
-**Deep Learning:** TensorFlow, PyTorch, Keras, CNNs, ResNet  
-**Backend:** FastAPI, REST APIs, SSE Streaming  
-**Cloud:** GCP, AWS, Firebase, Vercel, Docker  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam0897-i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0897-i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam0897-i&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam0897-i&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-</p>
-
----
+<br/>
 
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-Gen_AI_Professional_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Gen_AI_Internship-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google"/>
-  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
-  <img src="https://img.shields.io/badge/Google-Gemini_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Oracle-Gen_AI_Pro_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Gen_AI_Intern-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-Certified-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
----
+<br/>
 
-## 🤝 Let's Connect!
+<div align="center">
+  <a href="mailto:shivamagarwal2211@gmail.com"><img src="https://img.shields.io/badge/📧_Let's_Talk!-667eea?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/shivam-agarwal"><img src="https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge"/></a>
+</div>
 
-<p align="center">
-  <i>I'm always excited to collaborate on AI projects and discuss innovative ideas!</i>
-</p>
-
-<p align="center">
-  <a href="mailto:shivamagarwal2211@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-667eea?style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/shivam-agarwal">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
-  </a>
-</p>
-
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center">
-  <b>⭐ From <a href="https://github.com/shivam0897-i">shivam0897-i</a> with 💜</b>
-</p>
+<p align="center"><b>⭐ From <a href="https://github.com/shivam0897-i">shivam0897-i</a> with 💜</b></p>
