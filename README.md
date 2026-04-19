@@ -58,17 +58,15 @@
 
 <div align="center">
 
-| <a href="https://github.com/shivam0897-i/voice-detection">🛡️ <b>VoiceGuard</b></a> | <a href="https://github.com/shivam0897-i/voice_backend">🎙️ <b>Voice Detection API</b></a> |
-|:---:|:---:|
-| AI voice fraud detection web platform (frontend) | FastAPI inference backend with Wav2Vec2 + forensics |
-| `React` `Vite` `Tailwind` `WebSocket` | `Python` `FastAPI` `Wav2Vec2` `Faster-Whisper` |
-| **7-language realtime detection • PWA-ready** | **HF Spaces deployed • <30s response budget** |
+<i>Curated picks: if you only open two repos, start with <b>VoiceGuard</b> and <b>Point9 Agent Platform</b>.</i>
 
-| <a href="https://github.com/shivam0897-i/AscendPath">🎓 <b>AscendPath</b></a> | <a href="https://github.com/shivam0897-i/ThinkPdf">📚 <b>ThinkPDF</b></a> |
-|:---:|:---:|
-| AI-powered career roadmap and guidance platform | Document intelligence and semantic Q&A over PDFs |
-| `React` `TypeScript` `Supabase` `Gemini` | `Python` `Streamlit` `LangChain` `FAISS` |
-| **Live on ascendpath.xyz • CI + testing setup** | **1,000+ queries/day • sub-500ms retrieval** |
+| Project | Why it’s featured | Stack | Links |
+|:---|:---|:---|:---|
+| 🛡️ <b>VoiceGuard (Frontend)</b> | Real-time deepfake voice detection UX with dashboards, WebSocket streaming, and PWA support. | `React` `Vite` `Tailwind` `WebSocket` | <a href="https://github.com/shivam0897-i/voice-detection">Repo</a> · <a href="https://voice-detection-nu.vercel.app/">Live</a> |
+| 🎙️ <b>Voice Detection API</b> | Inference backend using Wav2Vec2 + signal forensics + ASR pipeline for session-level fraud scoring. | `Python` `FastAPI` `Wav2Vec2` `Faster-Whisper` | <a href="https://github.com/shivam0897-i/voice_backend">Repo</a> |
+| 🧰 <b>Point9 Agent Platform</b> | Reusable LangGraph agent foundation with tools, SSE streaming, storage, and built-in evaluation workflows. | `Python` `LangGraph` `LiteLLM` `FastAPI` | <a href="https://github.com/shivam0897-i/agent-platform">Repo</a> |
+| 🎓 <b>AscendPath</b> | AI-guided career roadmap product with auth, personalized recommendations, and production deployment. | `React` `TypeScript` `Supabase` `Gemini` | <a href="https://github.com/shivam0897-i/AscendPath">Repo</a> · <a href="https://ascendpath.xyz/">Live</a> |
+| 📚 <b>ThinkPDF</b> | Multi-PDF semantic search and Q&A with source-grounded answers and efficient retrieval pipeline. | `Python` `Streamlit` `LangChain` `FAISS` | <a href="https://github.com/shivam0897-i/ThinkPdf">Repo</a> |
 
 </div>
 
