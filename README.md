@@ -58,17 +58,17 @@
 
 <div align="center">
 
-| <a href="https://github.com/shivam0897-i/ThinkPdf">📚 <b>ThinkPDF</b></a> | <a href="https://github.com/shivam0897-i/MultiGenAI">🎨 <b>MultiGenAI</b></a> |
+| <a href="https://github.com/shivam0897-i/voice-detection">🛡️ <b>VoiceGuard</b></a> | <a href="https://github.com/shivam0897-i/voice_backend">🎙️ <b>Voice Detection API</b></a> |
 |:---:|:---:|
-| AI-powered document intelligence and semantic retrieval | Multimodal generation suite (text, image, audio) |
-| `Gemini` `FAISS` `Python` | `Gemini 2.5` `SDXL` `Hugging Face` |
-| **1,000+ queries/day • sub-500ms retrieval** | **500+ daily requests • 99.8% uptime** |
+| AI voice fraud detection web platform (frontend) | FastAPI inference backend with Wav2Vec2 + forensics |
+| `React` `Vite` `Tailwind` `WebSocket` | `Python` `FastAPI` `Wav2Vec2` `Faster-Whisper` |
+| **7-language realtime detection • PWA-ready** | **HF Spaces deployed • <30s response budget** |
 
-| <a href="https://github.com/shivam0897-i/AscendPath">🎓 <b>AscendPath</b></a> | <a href="https://github.com/shivam0897-i/Smart_waste_app">♻️ <b>Waste Classification</b></a> |
+| <a href="https://github.com/shivam0897-i/AscendPath">🎓 <b>AscendPath</b></a> | <a href="https://github.com/shivam0897-i/ThinkPdf">📚 <b>ThinkPDF</b></a> |
 |:---:|:---:|
-| AI-powered career roadmap platform | Computer vision app for smart waste sorting |
-| `React` `TypeScript` `Supabase` `Gemini` | `ResNet50` `TensorFlow` `Keras` |
-| Personalized recommendations + roadmap generation | Trained on 2,500+ labeled images |
+| AI-powered career roadmap and guidance platform | Document intelligence and semantic Q&A over PDFs |
+| `React` `TypeScript` `Supabase` `Gemini` | `Python` `Streamlit` `LangChain` `FAISS` |
+| **Live on ascendpath.xyz • CI + testing setup** | **1,000+ queries/day • sub-500ms retrieval** |
 
 </div>
 
